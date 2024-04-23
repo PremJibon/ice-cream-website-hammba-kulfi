@@ -11,15 +11,15 @@ body{
     background-image: linear-gradient(rgba(255,255,255,0.8),rgba(255,255,255,0.8)),url(body.jpg);
     background-position: center;
     background-size: cover;
+    
 }
 nav {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
     position: fixed;
     top: 0; /* Fixed navigation at the top */
-    left: 0;
-    right: 0;
+    
     background-color: #161616 ; /* Added background color */
     box-shadow: 0 0 10px rgba(0,0,0,0.5);
     z-index: 1000;
