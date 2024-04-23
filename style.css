@@ -364,6 +364,11 @@ footer {
     nav {
         overflow-x: hidden; /* Hide horizontal overflow in the navigation bar */
     }
+    .social-icons.active{
+        display: flex;
+        font-size: 15px;
+    }
+  
 
     
     
