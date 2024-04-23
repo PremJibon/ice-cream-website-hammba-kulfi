@@ -78,7 +78,7 @@ nav ul li a:hover::after {
 }
 
 .home{
-    height: 100vh;
+    height: auto;
     background-position: center;
     background-size: cover;
     background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url(home.jpg);
