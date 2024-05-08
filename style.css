@@ -178,11 +178,11 @@ span{
 .box{
     background-position: center;
     background-size: cover;
-    background-image: url(1.jpg);
+    background-image: url(kulfi1.jpg);
     position: relative;
 }
 .box:nth-child(2){
-    background-image: url(2.jpg);
+    background-image: url(kulfi2.jpg);
 }
 .box:nth-child(3){
     background-image: url(3.jpg);
