@@ -81,7 +81,7 @@ nav ul li a:hover::after {
     height: auto;
     background-position: center;
     background-size: cover;
-    background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url(home.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url(cows.jpg);
     overflow-x: hidden;
     
 }
